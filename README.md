@@ -1,3 +1,6 @@
+Smart Home
+
+
 ⚙️ Working Principle
 
 This system acts as a central hub for home automation. It uses an HC-05 Bluetooth Module to establish a wireless serial connection between an Android smartphone and the Arduino.
